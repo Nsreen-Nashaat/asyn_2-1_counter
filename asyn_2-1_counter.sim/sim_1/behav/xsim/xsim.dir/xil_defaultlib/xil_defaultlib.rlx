@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.srcs/sim_1/new/asyn_2_1_counter_tb.v,1688663292,verilog,,,,asyn_2_1_counter_tb,,,,,,,,
+C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.srcs/sources_1/new/asyn_2_1_counter.v,1688646665,verilog,,C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.srcs/sources_1/new/t_ff.v,,asyn_2_1_counter,,,,,,,,
+C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.srcs/sources_1/new/t_ff.v,1688663237,verilog,,C:/Users/Nsreen/Desktop/asyn_2-1_counter/asyn_2-1_counter.srcs/sim_1/new/asyn_2_1_counter_tb.v,,t_ff,,,,,,,,
